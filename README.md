@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @escozer
-- 👀 I’m interested in python, javascript, sql, cyber security
-- 🌱 I’m currently learning python and sql
+- 👀 I’m interested in devops and network
+- 🌱 I’m currently learning python, docker and azure.
 - 📫 How to reach me escozerr@gmail.com
 
 <!---
