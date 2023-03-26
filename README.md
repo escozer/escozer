@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @escozer
-- 👀 I’m interested in devops and network
-- 🌱 I’m currently learning python, docker and azure.
-- 📫 How to reach me escozerr@gmail.com
+name = "ahmet "
+surname = "ozer "
+language = "python "
+skills = ("tcp/ip ", "dns ", "firewall ", "arp ", "subnet ", "switch ", "routes ")
+programs = ("azure " "linux " "wireshark " "nmap " "oracle " "etc...")
 
-<!---
-escozer/escozer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+escozer = name+surname+language+programs
+print(escozer)
