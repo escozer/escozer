@@ -1,14 +1,4 @@
-name = "ahmet "
-
-surname = "ozer "
-
-language = "python "
-
-skills = ("tcp/ip ", "dns ", "firewall ", "arp ", "subnet ", "switch ", "routes ")
-
-programs = ("azure " "linux " "wireshark " "nmap " "oracle " "etc...")
-
-escozer = name+surname+language+programs
-
-
-print(escozer)
+I am Ahmet
+I am interested in network, cyber security and cloud systems.📲
+I'm currently working on Python Development and AzureDevops👨‍💻
+Currently working with a private company in the field of systems and networks🧑‍💻
