@@ -1,6 +1,6 @@
 I am Ahmet
 
-I am interested in network, cyber security and cloud systems.📲
+I am interested in network, cyber security and cloud systems📲
 
 I'm currently working on Python Development and AzureDevops👨‍💻
 
