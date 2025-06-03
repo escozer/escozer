@@ -12,10 +12,10 @@ export default function Navbar() {
             </Link>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
               <Link to="/" className="text-gray-900 inline-flex items-center px-1 pt-1 text-sm font-medium">
-                Ana Sayfa
+                Home
               </Link>
               <Link to="/virtual-try-on" className="text-gray-500 hover:text-gray-900 inline-flex items-center px-1 pt-1 text-sm font-medium">
-                Sanal Prova
+                Try On
               </Link>
             </div>
           </div>
